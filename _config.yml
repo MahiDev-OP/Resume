@@ -20,7 +20,7 @@ resume_contact_email:           "maheshy142002@gmail.com"
 resume_contact_telephone:       "7676239179"
 resume_contact_address:         "Bengaluru"
 
-#resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>As a Computer Science graduate from Acharya Institute of Technology, I possess a diverse skill set encompassing full-stack development, software engineering, and DevOps practices. With a keen eye for innovation and a passion for technology, my immediate career goal is to leverage these skills to contribute meaningfully to dynamic projects, continuously learn and grow within the industry, and ultimately make a positive impact on the advancement of software development and technology as a whole.</p>"
