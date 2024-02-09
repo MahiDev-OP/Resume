@@ -5,24 +5,17 @@
 - project: Sorting Visualizer Project-React
   role: Developer
   # url: "#"
-  description: Developed an interactive sorting visualizer showcasing Bubble Sort,Merge Sort, and Quick Sort algorithms.
-  Users input numbers and witness step-by-step sorting, enhancing comprehension of sorting techniques.
-  This impactful tool empowers others to grasp sorting concepts more effectively
+  description: Developed an interactive sorting visualizer showcasing Bubble Sort,Merge Sort, and Quick Sort algorithms. Users input numbers and witness step-by-step sorting, enhancing comprehension of sorting techniques. This impactful tool empowers others to grasp sorting concepts more effectively
 
   
 # Springfield Community Outreach Group
 - project: Employee Leave Management System- SQL
   role: Developer
   # url: "#"
-  description: Implemented an ELMS Employee Leave Management System) as a college-level Mini-Project, streamlining leave requests without direct manager involvement.
-  Employees gain access to sanctioned holidays, remaining leave balance, and request status updates.
-  Admin login enables efficient leave request management, including approval/rejection and feedback provision.
-  This user-friendly system fosters seamless interaction between employees and administrators, enhancing operational efficiency for both parties.
+  description: Implemented an ELMS Employee Leave Management System) as a college-level Mini-Project, streamlining leave requests without direct manager involvement. Employees gain access to sanctioned holidays, remaining leave balance, and request status updates. Admin login enables efficient leave request management, including approval/rejection and feedback provision. This user-friendly system fosters seamless interaction between employees and administrators, enhancing operational efficiency for both parties.
 
-- project: Deciphering Criminal Trends: K-means Algorithm for Detection and Anticipation- Python
+- project: Deciphering Criminal Trends K-means Algorithm for Detection and Anticipation- Python
   role: Developer
   # url: "#"
-  description:  Implementing the K-means algorithm in AIML for the 'Deciphering Criminal Trends' project, enhancing crime detection and anticipation.
-  Analyzing data to uncover patterns in criminal activities, showcasing proficiency in machine learning, data analysis, and crime prediction techniques.
-  Impactful for improving women's and children's safety by revolutionizing crime detection and prevention efforts.
+  description:  Implementing the K-means algorithm in AIML for the 'Deciphering Criminal Trends' project, enhancing crime detection and anticipation. Analyzing data to uncover patterns in criminal activities, showcasing proficiency in machine learning, data analysis, and crime prediction techniques. Impactful for improving women's and children's safety by revolutionizing crime detection and prevention efforts.
   
